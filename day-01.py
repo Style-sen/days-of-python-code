@@ -1,4 +1,5 @@
 """
+https://mp.weixin.qq.com/s?__biz=MzI4Mzc5NDk4MA==&mid=2247484357&idx=6&sn=e51a2e0ff6df2a0337750f8435b73e3f&chksm=eb84088edcf3819865463152267a465b84e540c51795f071b608a74a5172ed513d84b1f52ba3&scene=0&pass_ticket=DyIzPNUSvFQ1Omhr%2FBlxdkV0W9zdMUF3O9qY45iaZQHu8nyBjFM2RX%2B34yHbso%2FC#rd
 给出 n 代表生成括号的对数，请你写出一个函数，使其能够生成所有可能的并且有效的括号组合。
 例如，给出 n = 3，生成结果为：
 ["((()))","(()())","(())()","()(())","()()()"]
